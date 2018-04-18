@@ -8,8 +8,8 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Заказать Звонок", 
-		"/callback.php", 
+		"Заказать звонок", 
+		"/callback/", 
 		Array(), 
 		Array(), 
 		"" 
